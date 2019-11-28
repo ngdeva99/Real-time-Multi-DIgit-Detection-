@@ -85,8 +85,5 @@ def get_img_contour_thresh(img):
 main()
 
 
-# In[ ]:
-print(contours.shape)
-
 
 
